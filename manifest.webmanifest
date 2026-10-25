@@ -1,0 +1,17 @@
+{
+  "name": "Miselo Consultancy Holdings",
+  "short_name": "MISELO",
+  "description": "Complete Property Solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09182e",
+  "theme_color": "#09182e",
+  "icons": [
+    {
+      "src": "/brand/miselo-logo.webp",
+      "sizes": "128x128",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}
