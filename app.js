@@ -3,8 +3,8 @@
 const APP_NAME='Miselo Consultancy Holdings';
 const image=(id,w=1300)=>'https://images.pexels.com/photos/'+id+'/pexels-photo-'+id+'.jpeg?auto=compress&cs=tinysrgb&w='+w;
 const photo={
-build:image(5325460),workers:image(25406006),renovate:image(5493654),office:image(27256406),site:image(8961526),
-clean:image(6195951),security:image(279260),plumbing:image(8005367),grounds:image(1416879595882),estate:image(323780),facilities:image(3184292),
+build:image(5325460),workers:image(37333412),renovate:image(5493654),office:image(27256406),site:image(8961526),
+clean:image(10567271),security:image(9635095),plumbing:image(16509869),grounds:image(1105766),estate:image(9635095),facilities:image(8288954),
 power:image(9875414),workplace:image(3184465),landscape:image(1105766),water:image(416528),repair:image(4792509)
 };
 const heroSlides=[
